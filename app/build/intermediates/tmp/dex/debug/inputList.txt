@@ -1,0 +1,4 @@
+/Users/admin/Desktop/Beautified/JackyTest/app/build/intermediates/classes/debug
+/Users/admin/Desktop/Beautified/JackyTest/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-bc3a053b0bcaad9c52364637dfaf7488a4215ec4.jar
+/Users/admin/Desktop/Beautified/JackyTest/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-f12726a697850e8da1be4e5129df22728ce2257c.jar
+/Users/admin/Desktop/Beautified/JackyTest/app/build/intermediates/pre-dexed/debug/classes-5430616f1c838e6f249947793342a0796b7b5484.jar
